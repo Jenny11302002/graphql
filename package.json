@@ -14,5 +14,14 @@
     "express": "^5.2.1",
     "express-graphql": "^0.12.0",
     "graphql": "^16.14.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenny11302002/graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jenny11302002/graphql/issues"
+  },
+  "homepage": "https://github.com/Jenny11302002/graphql#readme"
 }
